@@ -1,5 +1,4 @@
 import React from "react";
-import Paper from "@mui/material/Paper";
 import '../styles/header.css'
 function Header() {
     return (
