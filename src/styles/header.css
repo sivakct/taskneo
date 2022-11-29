@@ -1,0 +1,19 @@
+.nav {
+    /* background: linear-gradient(to bottom, hsl(0 0% 0% / .2), hsl(0 0% 0% /.08), transparent); */
+    background: rgb(17, 37, 37);
+    /* box-shadow: 5px 10px 10px 10px rgba(153, 247, 234, 0.22);         */
+    display: flex;
+    align-items: center;
+    padding: 8px 12px 8px 8px;
+    gap: 7px;
+    margin-bottom: 3rem;
+}
+
+.nav img {
+    height: 60px;
+    width: 60px;
+}
+
+.site-name {
+    color: white;
+}
