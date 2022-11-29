@@ -9,7 +9,7 @@ function FormArea({ addNote }) {
         content: "",
     });
     function clickHandler() {
-        if (note.title == "" && note.content == "") {
+        if (note.title === "" && note.content === "") {
             alert("Missing Details");
             return;
         }
